@@ -1,0 +1,17 @@
+{"0": {"login": "admin", 
+	"password": "admin", 
+	"role": "admin",
+	"email": "admin@gmail.com", 
+	"name": "Adam", 
+	"surname": "Allah", 
+	"patronymic": "Petrovich"},
+"1": {"login": "garry", 
+	"password": "garry", 
+	"role": "user",
+	"email": "garry@gmail.com", 
+	"name": "Garry", 
+	"surname": "Parrot", 
+	"patronymic": "Bum", 
+	"points": "500",
+	"list_tickets": ""}
+}
